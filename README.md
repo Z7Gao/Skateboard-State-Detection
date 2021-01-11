@@ -1,14 +1,13 @@
 ---
-typora-copy-images-to: doc\img
+typora-copy-images-to: doc
 ---
 
 # Skateboard
 Computer Vision 2020 Course Project
 
+## Poster
 
-openpose[CMU]:https://github.com/CMU-Perceptual-Computing-Lab/openpose
-
-
+![poster](doc/poster.jpg)
 
 ## HOW TO RUN
 
@@ -18,15 +17,13 @@ cd code
 python3 net.py
 ```
 
-
-
 ## Dev log
 
 ### Ziqi's part
 
 ### 12/12
 
-- Running openpose successfully;
+- Compiling & Running openpose successfully;
 
 - Uploading the result on reduced dataset in `pose` , with json and jpg format for each image.
 
